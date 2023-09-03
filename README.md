@@ -1,4 +1,4 @@
-#FedDISC
+## FedDISC
 
 This repository is the implementation of FedDISC (Federated Diffusion-Inspired Semi-supervised Co-training). 
 
@@ -11,11 +11,11 @@ With the vast knowledge within the pre-trained diffusion models, it becomes poss
 
 ## Requirements
 
-pip install -r requriements.txt
+	pip install -r requriements.txt
 
 ## Generate Images & Fine-tune & Test
 
-sh ./generate_test.sh
+	sh ./generate_test.sh
 
 ## Pre-trained Diffusion Model
 
